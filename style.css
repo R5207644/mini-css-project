@@ -167,3 +167,10 @@
     transform: scale(1.1);
     filter: grayscale(0);
 }
+.img:hover{
+    box-shadow: 0 0 6px rgba(255, 255, 255, 0.5);
+}
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+}
