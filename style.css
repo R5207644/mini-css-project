@@ -172,7 +172,7 @@
 }
 
 /* adding responsiveness for mobile */
-@media screen and (max-width: 412px) {
+@media screen and (max-width: 872px) {
     .sidebar_menu{
         width: 70vw;
     }
