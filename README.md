@@ -1,2 +1,2 @@
 # mini-css-project
-This is mini project which develop by watching mam's tutorial but i will develop it in my free time.
+Basic css project with galary feature, this project not fully completed but pottentially it can be developed as full photography website.
